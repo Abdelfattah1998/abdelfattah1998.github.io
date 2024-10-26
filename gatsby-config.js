@@ -3,56 +3,53 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Abdelfattah Hasanat',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Abdelfattah Hasanat | Full-Stack Developer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: ``,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@abdelfattah_hasanat`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/abdelfattah1998`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/abdelfattah-hasanat/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Skilled, ambitious, and organized developer, with strong problem-solving skills and an analytical mind. 
+I am a fast learner who is passionate about lifelong learning, striving to achieve efficiency & the best 
+quality through integrating a variety of technologies.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Welfare Pal',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'E-medical Website connecting doctors and patients built using Python/Django',
+        link: 'https://github.com/Abdelfattah1998/E-medical_Project',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'FreeHire',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'This application targets workers (construction workers, technicians, contractors...etc.), and workshops owners who are actively recruiting workers in Palestine',
+        link: 'https://github.com/Abdelfattah1998/Recruiter',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Medica',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Clinic Web-Page that helps doctor to organize appointments and documentation of his patients Built using MERN.',
+        link: 'https://github.com/HasanMohammadSadaqa/Clinica',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Userpilot',
+        description: 'Back-End Developer, march 2023 - feb 2024',
+        link: 'https://www.linkedin.com/in/abdelfattah-hasanat/',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'UNRWA-RWTC',
+        description: 'Instructor, mar 2024 - jul 2024',
+        link: 'https://www.linkedin.com/in/abdelfattah-hasanat/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +57,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript (ES6+), Node.js, Express.js, React.js,  C#, .Net Core, Python, Django, Flask, Java, SpringBoot, Elixir, Phoenix',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MongoDB, PostreSQL, MySQL, ClickHouse',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Linux, Git, GitHub, Docker, PostMan, AWS (EC2), Mongoose, JWT, AJAX, Socket.io, Microservices, API design, Agile / Scrum',
       },
     ],
   },
