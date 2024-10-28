@@ -39,9 +39,9 @@ const Header = ({ metadata = {}, noBlog = false }) => {
             <li className={classes.item}>
               <a
                 className={classes.link}
-                href={`https://twitter.com/${twitter}`}
+                href={`https://leetcode.com/u/nyeQ60ci9B/`}
               >
-                Twitter
+                LeetCode
               </a>
             </li>
           )}
@@ -57,13 +57,6 @@ const Header = ({ metadata = {}, noBlog = false }) => {
               <a className={classes.link} href={linkedin}>
                 LinkedIn
               </a>
-            </li>
-          )}
-          {!noBlog && (
-            <li className={classes.item}>
-              <Link className={classes.link} to="/blog">
-                Blog
-              </Link>
             </li>
           )}
         </ul>
