@@ -50,7 +50,7 @@ quality through integrating a variety of technologies.
       },
       {
         name: 'UNRWA-RWTC',
-        description: 'Instructor, march 2024 – julu 2024',
+        description: 'Instructor, march 2024 – july 2024',
         link: '',
       }
     ],
